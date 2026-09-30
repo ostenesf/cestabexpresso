@@ -4,6 +4,12 @@ Este repositório guarda o `MODELO UNIVERSAL - PROTOTIPO GERAL.docx` e os autos 
 bancários. A tarefa típica é: **"Crie uma minuta de sentença para o processo X baseando-se no modelo universal."**
 As regras abaixo valem para toda minuta.
 
+## 0. Modelo matriz
+
+O modelo matriz é o `MODELO UNIVERSAL - PROTOTIPO GERAL.docx` da raiz deste repositório, no branch `main`. Se o
+usuário indicar outra cópia (Drive, anexo), compare-a parágrafo a parágrafo com a do repositório; havendo diferença,
+pergunte qual prevalece antes de usar e, confirmada a nova, atualize o repositório com ela.
+
 ## 1. Regra de ouro: fidelidade absoluta ao modelo
 
 1. Leia o modelo inteiro antes de começar, inclusive as instruções `###`, as ROTAS 1 a 7 e os blocos D1 a D6.
